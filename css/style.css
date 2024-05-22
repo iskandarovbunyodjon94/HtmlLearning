@@ -1,0 +1,17 @@
+h1 {
+    opacity: 0.44;
+}
+p {
+    color: red;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
