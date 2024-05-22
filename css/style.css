@@ -7,11 +7,49 @@ p {
 }
 
 table {
+    width: 100%;
     border-collapse: collapse;
+}
+
+thead {
+    text-align: left;
 }
 
 th, td {
     border: 1px solid black;
     padding: 5px;
+}
+
+#ikkinchi_par {
+    color: green;
+}
+
+#uchinchi_par {
+    color: darkslateblue;
+}
+
+#sarlavxa {
+    color: darkblue;
+    opacity: 1;
+}
+
+.qizil {
+    color: red;
+    font-weight: bold;
+}
+
+.yashil {
+    color: green;
+}
+
+.jigarang {
+    color: brown;
+}
+
+.center {
     text-align: center;
+}
+
+.katta {
+    font-size: 32px;
 }
